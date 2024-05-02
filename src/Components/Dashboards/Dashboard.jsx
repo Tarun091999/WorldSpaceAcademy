@@ -15,8 +15,8 @@ const Dashboard=()=>{
             <div className="leftNavigation">
                 <LeftNavigation/>
             </div>
-            <div className="dashboardContentArea ">
-              
+            {/* dashboard cards  */}
+            <div className="dashboardContentArea ">              
               <div className="profileProgressSection row">
               <div className="col-md-3 ps-lg-0 " >
                   <div className="comon-overview  card  mb-4 mb-lg-0">
