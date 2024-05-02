@@ -68,8 +68,6 @@ const LeftNavigation = () => {
           </NavLink>
           </li>
           <li className="navItems">
-
-   
           <NavLink className="navLink" to="/adminlashboardlab" activeClassName="menu_active">
             {" "}
             <span className="menu-icon-new">
