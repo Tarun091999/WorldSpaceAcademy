@@ -1,0 +1,84 @@
+
+*{
+    overflow: hidden    ;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+
+.formContainer{
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+}
+.inputFeilds{
+    background-color: #E5E5E5;
+    padding: 10px;
+    margin: auto;
+    justify-self: baseline;
+    margin-bottom: 10px;
+}
+
+.inputFeilds::placeholder{
+    color: #0000006C;
+}
+.recoverPasswordOptions{
+    display: flex;
+    justify-content: space-between;
+    color: #0000006C;
+    margin: 12px 0px;
+}
+.LoginButton{
+    color: #0000006C;
+    background-color: #E5E5E5;
+    width: 100%;
+    border: none;
+    padding: 11px;
+}
+.LoginButton:hover{
+    color: #0000006C;
+    background-color: #E5E5E5;
+    width: 100%;
+    border: none;
+    padding: 11px;
+}
+.termsPolicy{
+    font-size: 13px;
+    margin: 20px 0px;
+}
+.loginHeaderText{
+    margin: 15px 0px;
+}
+.signInWith{
+    color: #0000006C;
+    font-weight: 500;
+}
+.oauthSeviveOptions{
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+
+.loginContent{
+    height: 95vh;
+}
+
+.outhLogo{
+    width: 40px;
+}
+
+.imageContainer{
+    display: flex;
+    align-items: center;
+}
+.loginImage{
+    display: block;
+    margin: auto;
+}

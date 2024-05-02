@@ -1,0 +1,29 @@
+.comon-overview{
+    padding: 10px;
+    border-radius: 10px;
+}
+.cinfo{
+ padding: 0px 10px;
+}
+
+.dayDescribe{
+    color: #4CAF50;
+}
+
+.profileProgressSection{
+    padding: 20px;
+}
+
+.progressDetails{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 10px;
+}
+
+.progressBy{
+    align-self: center;
+}
+
+.cardContainer h5{
+    font-size: 1.1rem;
+}

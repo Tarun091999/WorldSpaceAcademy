@@ -1,0 +1,25 @@
+.topNavbar{
+    background-color: #F7F7F7;
+    width: 100vw;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+}
+
+.logoTitle{
+    color: #575757;
+    font-weight: 600;
+}
+
+.profileContainer{
+    display: flex;
+    align-items: center;
+}
+
+.profileName{
+    margin-left: 10px;
+    color: #575757;
+    font-weight: 600;
+}
